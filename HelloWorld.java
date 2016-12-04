@@ -1,4 +1,4 @@
-package com.pluralsight.demos;
+/* This is a Servlet , where you can run initially on running tomcat */
 
 import java.io.IOException;
 import java.io.PrintWriter;

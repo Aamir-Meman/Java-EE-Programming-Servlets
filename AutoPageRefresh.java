@@ -4,7 +4,6 @@
 
 
 
-package com.pluralsight.demos;
 
 import java.io.IOException;
 import java.io.PrintWriter;

@@ -1,4 +1,8 @@
-package com.pluralsight.demos;
+/*It is a servlet used for logging statement in a console , where in a url you should give http://localhost:8081/DebuggingServlets/ContextLog?param = Success,
+then you should observe a console in IDE it changes 
+
+
+*/
 
 import java.io.IOException;
 import java.io.PrintWriter;

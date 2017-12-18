@@ -32,7 +32,7 @@ public class HelloWorld extends GenericServlet {
 
 		PrintWriter out = response.getWriter();
 		out.println(" Java EE: Programming Servlets ");
-
+                out.println( " Java SE : Core Java " );
 	}
 
 }
